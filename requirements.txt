@@ -1,0 +1,4 @@
+streamlit==1.20.0
+PyPDF2==3.0.1
+python-docx==0.8.11
+reportlab==3.6.1
